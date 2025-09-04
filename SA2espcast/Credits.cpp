@@ -334,7 +334,7 @@ CreditsEntry CreditsSpanish[] = {
 	{ 1, 1, 1, 1, 1, "KIRANDUBS" },
 	{ 1, 1, 1, 1, 1, "EVAMA" },
 	{ 1, 1, 1, 1, 1, "ASUTADUBS" },
-	{ 1, 1, 1, 1, 1, "LUISMA ALBARRACIN" },
+	{ 1, 1, 1, 1, 1, "URISIA BEROPEN" },
 	{ 1, 1, 1, 1, 1, "ALF FANDUBS" },
 	{ 1, 1, 1, 1, 1, "MARTAS DUB" },
 	{ 1, 1, 1, 1, 1, "TAZON BOMBA" },
