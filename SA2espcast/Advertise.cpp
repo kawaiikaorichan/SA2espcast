@@ -508,7 +508,7 @@ const char* AdvertiseSpanishNew[]
 	"Me llamo Miles Prower,\npero todos me llaman Tails.",
 	"Hemos conseguido encontrar al\npresidente y hemos localizado a Eggman.",
 	"Parece que están en\nuna colonia espacial llamada ARK.",
-	"¡Ahora nos vamos a\una base secreta de Eggman\nque esta en una pirámide del desierto!",
+	"¡Ahora nos vamos a\nuna base secreta de Eggman\nque está en una pirámide del desierto!",
 	"¡Vale! ¡Yo\nencontraré la entrada!",
 
 	// Pyramid Cave
